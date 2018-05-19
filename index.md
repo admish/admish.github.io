@@ -13,7 +13,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: my own personal playground
+sub_heading: Project Playground
 textline: Personal and professional projects for Adm Chrysler
 hero_button:
   text: Browse projects
