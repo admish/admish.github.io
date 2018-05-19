@@ -1,0 +1,8 @@
+---
+footer:
+- url: https://admchrysler.com/
+  weight: 2
+  title: Résumé
+- url: https://github.com/admish
+  weight: 1
+  title: GitHub
