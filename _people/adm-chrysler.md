@@ -2,7 +2,7 @@
 title: Adm Chrysler
 role: staff
 layout: person
-date: 2018-05-19 11:05:37 -0400
+date: 2018-05-19 15:05:37 +0000
 linkedin: https://www.linkedin.com/in/adium/
 sub_heading: ''
 thumbnail: ''

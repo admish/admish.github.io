@@ -1,7 +1,7 @@
 ---
 title: EndNote Word add-in
 layout: post
-date: 2017-04-22 12:43:00 -0400
+date: 2017-04-22 16:43:00 +0000
 sub_heading: ''
 tags: []
 banner_image: ''

@@ -1,7 +1,7 @@
 ---
 title: HTPC Server
 layout: post
-date: 2018-05-09 22:49:00 -0400
+date: 2018-05-10 02:49:00 +0000
 sub_heading: ''
 tags: []
 banner_image: ''

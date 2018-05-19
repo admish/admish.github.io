@@ -1,7 +1,7 @@
 ---
 title: Cornell Workday Website
 tags: []
-date: 2018-05-19 11:22:16 -0400
+date: 2018-05-19 15:22:16 +0000
 banner_image: "/uploads/banner_workday-1.png"
 sub_heading: ''
 slug: ''

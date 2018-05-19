@@ -1,8 +1,10 @@
 ---
 footer:
-- url: https://admchrysler.com/
-  weight: 2
+- identifier: 
+  url: https://admchrysler.com/
+  weight: 4
   title: Résumé
-- url: https://github.com/admish
-  weight: 1
+- identifier: 
+  url: https://github.com/admish
+  weight: 2
   title: GitHub

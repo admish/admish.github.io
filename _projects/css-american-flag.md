@@ -1,7 +1,7 @@
 ---
 title: CSS American Flag
 tags: []
-date: 2018-05-19 11:27:23 -0400
+date: 2018-05-19 15:27:23 +0000
 banner_image: "/uploads/banner_code-1.png"
 sub_heading: ''
 slug: ''

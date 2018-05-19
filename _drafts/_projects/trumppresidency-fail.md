@@ -1,5 +1,5 @@
 ---
 title: trumppresidency.fail
 tags: []
-date: 2018-05-19 11:30:27 -0400
+date: 2018-05-19 15:30:27 +0000
 ---

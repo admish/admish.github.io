@@ -1,7 +1,7 @@
 ---
 title: Stopify Chrome Extension
 tags: []
-date: 2018-05-19 11:24:35 -0400
+date: 2018-05-19 15:24:35 +0000
 banner_image: "/uploads/banner_spotify-1.png"
 sub_heading: ''
 slug: ''

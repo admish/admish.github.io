@@ -1,7 +1,7 @@
 ---
 title: Electrophoresis Comb
 tags: []
-date: 2018-05-19 11:12:35 -0400
+date: 2018-05-19 15:12:35 +0000
 sub_heading: Customizable comb for use in DNA electrophoresis
 banner_image: "/uploads/electrophoresis.jpg"
 slug: ''
