@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: Adm Chrysler's projects
+short_title: Adium.me
+description: Adm Chrysler's personal and professional projects
 baseurl:
 permalink: "/:path/"
 defaults:
