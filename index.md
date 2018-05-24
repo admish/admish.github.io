@@ -1,6 +1,6 @@
 ---
 title: Adium.me
-banner_image: "/uploads/banner_geo.png"
+banner_image: "/uploads/banner_code-1-1.png"
 layout: landing-page
 heading: my own personal playground
 partners: []
