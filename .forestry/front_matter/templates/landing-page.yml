@@ -14,7 +14,9 @@ fields:
   label: Description
   config:
     wysiwyg: true
-    required: true
+    required: false
+    schema:
+      format: markdown
 - type: text
   label: Hero Heading
   name: heading
