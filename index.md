@@ -1,8 +1,8 @@
 ---
 title: Adium.me
-banner_image: "/uploads/banner_geo-1.png"
+banner_image: ''
 layout: landing-page
-heading: my own personal playground
+heading: Adm Chrysler
 partners: []
 services:
 - description: Performing collaborative research and providing services to support
@@ -13,7 +13,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Project Playground
+sub_heading: My own personal playground for various projects I'm working on.
 textline: Personal and professional projects for Adm Chrysler
 hero_button:
   text: Browse projects
