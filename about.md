@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/banner_park.png"
+banner_image: "/uploads/banner_code-1.png"
 heading: About Adium.me
 sub_heading: Ora et Labora
 layout: landing-page
