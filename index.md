@@ -19,6 +19,8 @@ hero_button:
   text: Browse projects
   href: "/projects"
 show_news: true
+description: ''
+show_staff: false
 menu:
   navigation:
     identifier: _index
