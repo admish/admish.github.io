@@ -69,7 +69,7 @@ fields:
 - type: image_gallery
   name: partners
   label: Partner Logos
-  hidden: true
+  hidden: false
 - type: boolean
   name: show_staff
   label: Show Staff?
