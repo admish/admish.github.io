@@ -1,6 +1,6 @@
 ---
 title: Adium.me
-banner_image: ''
+banner_image: "/uploads/banner_geo.png"
 layout: landing-page
 heading: Adm Chrysler
 partners: []
