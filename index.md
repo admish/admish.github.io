@@ -1,6 +1,6 @@
 ---
 title: Adium.me
-banner_image: "/uploads/banner_code-1-1.png"
+banner_image: "/uploads/banner_geo-1.png"
 layout: landing-page
 heading: my own personal playground
 partners: []
@@ -8,7 +8,7 @@ services:
 - description: Performing collaborative research and providing services to support
     the CyberSecurity Sector.
   heading: CyberSecurity
-  icon: "/uploads/2017/11/13/health.png"
+  icon: "/uploads/cyber-security_142-1.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: BioTech
