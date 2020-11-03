@@ -29,8 +29,9 @@ build:
   preview_env:
   - JEKYLL_ENV=staging
   preview_output_directory: _site
-  install_dependencies_command: gem install bundler:1.16.1 && bundle install --path
-    vendor/bundle
+  install_dependencies_command: bundle config set path 'vendor/bundle' && bundle lock
+    --add-platform x86-mingw32 x86-mswin32 x64-mingw32 java && bundle install && bundle
+    update --bundler
   preview_docker_image: forestryio/ruby:2.6
   mount_path: "/srv"
   instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
