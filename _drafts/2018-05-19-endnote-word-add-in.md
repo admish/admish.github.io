@@ -1,11 +1,12 @@
 ---
 title: EndNote Word add-in
 layout: post
-date: 2017-04-22 16:43:00 +0000
+date: 2017-04-22T16:43:00.000+00:00
 sub_heading: ''
 tags: []
 banner_image: ''
 related_posts: []
+
 ---
 Clearing up common error after installing Endnote on OS X.
 
