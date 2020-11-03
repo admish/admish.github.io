@@ -1,7 +1,6 @@
 ---
 label: project
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -28,8 +27,8 @@ fields:
   hidden: false
   default: ''
 pages:
-- _projects/vet-dictionary.md
-- _projects/css-american-flag.md
 - _projects/cornell-workday-website.md
+- _projects/css-american-flag.md
 - _projects/electrophoresis-comb.md
 - _projects/stopify-chrome-extension.md
+- _projects/vet-dictionary.md

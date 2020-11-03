@@ -1,7 +1,6 @@
 ---
 label: post
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -40,5 +39,5 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/2018-05-24-cord-cutting.md
 - _posts/2018-05-19-endnote-word-add-in.md
+- _posts/2018-05-24-cord-cutting.md
