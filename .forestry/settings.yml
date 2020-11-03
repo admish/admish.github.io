@@ -31,7 +31,7 @@ build:
   preview_output_directory: _site
   install_dependencies_command: bundle install --path vendor/bundle && bundle update
     --bundler
-  preview_docker_image: forestryio/ruby:2.6-node12
+  preview_docker_image: forestryio/ruby:2.6
   mount_path: "/srv"
   instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
     -d _site
