@@ -66,3 +66,5 @@ $RECYCLE.BIN/
 
 ## Use this to find an delete any files/folders you wish to remove
 ## find . -name ".@__thumb" -exec rm -R {} \;
+
+vendor
