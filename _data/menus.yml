@@ -8,3 +8,7 @@ footer:
   url: https://github.com/admish
   weight: 5
   title: GitHub
+- identifier: _contact
+  url: "/contact/"
+  weight: 6
+  title: Contact
